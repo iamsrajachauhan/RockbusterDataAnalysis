@@ -24,6 +24,8 @@ Diving into Rockbuster Stealth's, data to answer key business queries for their 
 - SQL queries addressing the management’s questions.
 - Visualizations in Tableau Public.
 - A narrative story combining data insights with business strategies.
+
+  
 **Visualizations**: Check out the [Tableau Public dashboard](https://public.tableau.com/app/profile/isom.winton/vizzes) for interactive insights.
   
 **Final Project PDF**: Find a detailed report in the [Final Project PDF]
