@@ -30,4 +30,6 @@ Diving into Rockbuster Stealth's, data to answer key business queries for their 
   
 **Final Project PDF**: Find a detailed report in the [Final Project PDF]
 (https://github.com/isom17/InstaCartAnalysis/files/14471297/Exercise.3.10_RockBuster.Stealth.llc._Isom.Winton.1.pdf).
+
+
 This repository showcases not just technical SQL capabilities but also the ability to convert data into strategic business outcomes.
