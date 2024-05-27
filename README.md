@@ -16,7 +16,7 @@ Diving into Rockbuster Stealth's, data to answer key business queries for their 
 **Context**: This project involves using SQL for in-depth data analysis to address queries from different departments, enhancing decision-making for the upcoming online service transition. Skills acquired here are transferable across industries, underscoring problem-solving abilities in data analytics.
 **Data Set**: The dataset includes information on Rockbuster’s film inventory, customers, and transactions, loaded into a PostgreSQL database. It's structured to reflect real-world business scenarios and relationships between different data tables.
 
--[Rockbuster Data Set](https://github.com/isom17/InstaCartAnalysis/files/14471305/Rockbuster.Excel.Data.xls)
+-[Rockbuster Data Set](https://github.com/iamsrajachauhan/RockbusterDataAnalysis/blob/main/Rockbuster.Excel.Data.xls)
 
 **Project Deliverables**: The project culminates in a comprehensive analysis, backed by SQL queries, visualizations, and a narrative that translates complex data into actionable business insights.
 
