@@ -26,7 +26,7 @@ Diving into Rockbuster Stealth's, data to answer key business queries for their 
 - A narrative story combining data insights with business strategies.
 
   
-**Visualizations**: Check out the [Tableau Public dashboard](https://public.tableau.com/app/profile/isom.winton/vizzes) for interactive insights.
+**Visualizations**: Check out the [Tableau Public dashboard](https://public.tableau.com/app/profile/sraja.chauhan/vizzes) for interactive insights.
   
 **Final Project PDF**: Find a detailed report in the [Final Project PDF]
 (https://github.com/isom17/InstaCartAnalysis/files/14471297/Exercise.3.10_RockBuster.Stealth.llc._Isom.Winton.1.pdf).
