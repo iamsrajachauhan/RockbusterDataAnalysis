@@ -1,5 +1,5 @@
 # RockbusterDataAnalysis
-Introduction: This project takes on the assumptions that I've been hired by Rockbuster Stealth LLC, a traditional movie rental company facing competition from streaming giants. My role is to spearhead the data strategy for launching their new online video rental service. Utilizing SQL, I will analyze various data points to assist with the launch strategy, providing the Rockbuster Stealth management with data-driven insights for their 2020 strategy.
+Introduction: This project takes on the assumption that I've been hired by Rockbuster Stealth LLC, a traditional movie rental company facing competition from streaming giants. My role is to spearhead the data strategy for launching their new online video rental service. Utilizing SQL, I will analyze various data points to assist with the launch strategy, providing the Rockbuster Stealth management with data-driven insights for their 2020 strategy.
 
 Key Questions:
 
@@ -7,6 +7,7 @@ Which movies are pivotal for revenue?
 Average rental duration for videos?
 Demographics of Rockbuster customers?
 Location of high-value customers?
+
 Sales comparison across regions.
 Context: This project involves using SQL for in-depth data analysis to address queries from different departments, enhancing decision-making for the upcoming online service transition. Skills acquired here are transferable across industries, underscoring problem-solving abilities in data analytics.
 
